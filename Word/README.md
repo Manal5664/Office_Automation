@@ -52,6 +52,4 @@ This repository contains the exercises, practical tasks, and notes for **Microso
 - Mail Merge was demonstrated with a sample Excel sheet.  
 - AI tools were used to improve writing and layout where available.  
 
----
-
-## File Structure (Example)
+## Manal Asghar
